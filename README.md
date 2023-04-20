@@ -1,2 +1,2 @@
 # rust-snake-game
-Snake Game in Rust
+Snake Game in Rust.
